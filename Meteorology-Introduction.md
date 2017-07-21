@@ -43,7 +43,7 @@ However, with increased commons participation - effectively the elitist playgrou
 
 Weather observation starts with 5 broad category based on the scale which in turn refers to geographical access. Observation begins with instruments that are grouped to form a **Weather Station**. The following is a generic categorization:
 
-1. Weather Stations (GROUND/SURFACE OBSERVATION)
+1. Weather Stations (*GROUND/SURFACE OBSERVATION*)
    * Personal Weather Stations
    * Amateur/Corporate Weather Stations
    * Government Weather Stations
