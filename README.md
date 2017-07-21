@@ -6,6 +6,6 @@
 
 The project uses Arduinno Mega at its Heart &lt;3. 
 
-Still this version of the weather station is functioning and logs the data openly. The project is also shared through Instructables, and discussed to good extend among local people through online discussion forums. Several recommendations and advises are noted and to be implemented.
+Still this version of the weather station is functioning and logs the data openly. The project is also shared through Instructables, and discussed to good extent among local people through online discussion forums. Several recommendations and advises are noted and to be implemented.
 
 
