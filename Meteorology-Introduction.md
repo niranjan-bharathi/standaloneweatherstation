@@ -47,11 +47,11 @@ Weather observation starts with 5 broad category based on the scale which in tur
    * Personal Weather Stations
    * Amateur/Corporate Weather Stations
    * Government Weather Stations
-2. Airborne Stations (AVIATION OBSERVATION)
-3. Weather Balloons (UPPER AIR OBSERVATION)
+2. Airborne Stations (*AVIATION OBSERVATION*)
+3. Weather Balloons (*UPPER AIR OBSERVATION*)
    * Uses Helium Balloons
    * Uses Radiosondes
-4. Weather Satellite (GLOBAL OBSERVATION)
+4. Weather Satellite (*GLOBAL OBSERVATION*)
    * Uses sophisticated instruments
 5. Weather Radar
    * Uses Doppler Radar
