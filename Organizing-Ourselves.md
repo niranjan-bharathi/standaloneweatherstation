@@ -44,4 +44,6 @@ Mechanical design provides the framework for the instrument. Thus it needs to ad
 ### Information Visualization Design group:
 
 
+## Execution & Operations
 
+As one can see in the repo directory structure, each subgroup can be effectively managed for their tasks - with proper isolation and interfacing. Depth of a particular skill and practice is less significant when it comes to overall integration and design. Placing constraints on design ideas based on engineering limitations will restrict the flow of ideas, which is where we have to discuss how to decouple it - so that time and resource need not be wasted.

@@ -55,6 +55,8 @@ Weather observation starts with 5 broad category based on the scale which in tur
    * Uses sophisticated instruments
 5. Weather Radar
    * Uses Doppler Radar
+6. Weather Buoys (*OCEAN OBSERVATION*)
+   * Uses Buoys
 
 Observed datas from all of these several stations distributed and networked around the globe are collected, processed and fused together using computational systems to help forecast the weather with proper update intervals.
 
