@@ -12,6 +12,10 @@ With such interdisciplinary approach, we need to constrain the project with boun
 
 > The effectiveness of such construction is already proved by the humble project initiators & will continue to participate along with new contributors.
 
+Ever heared about **1 meter 1 billion**, the common problem for all individuals of humanity facing the reality of climate crisis. Whatever may be the cause of the scenario, we have learned that we have to necessarily tackle the situation in hand, but adapting better to the space ship Earth. Better adapting comes from better understanding. Better understanding comes from critical interpretation. Critical interpreatation founts from proper observation skills and tools. Such tools, when contributed and made by commons, it becomes a platform that is so powerful than any other platform ever created by any corporates or governments or even combined.
+
+Ofcourse, we cannot do everything about weather stuff we dream about, in reality. Atleast those who could afford time, and some resource can do great. With rising community participation in wider socio-economic issues, active scientific participation becomes vital and proving the progressive nature of the commons platform as a side effect of the effort.
+
 ## Organizing:
 
 It is very similar to any other instrumentation project that encompasses several parts to it. Each of them has to be handled with their own design perspective and need to be implemented with their engineering principles. Thus it requires a interesting integration approach for erecting a weather station. The following are the microgroups that can be formed for realizing a complete weather station. The microgroups can vary in size from single contributor to few contributors right enough to manage the task and goal in hand. Too much people might cause confusion.
