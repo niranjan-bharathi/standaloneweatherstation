@@ -26,10 +26,10 @@ Has to learn from existing weather stations, and study its mechanical structure,
 
 Mechanical design provides the framework for the instrument. Thus it needs to address the mechanical stability, ruggedness, strength, mass, modularity, portability, support structure. Depending upon the later instrumentation requirments, design might be updated often to suit for the placement of components that help measure the weather parameters. The goal is to keep it simple enough to use, and simple enough to develop. Here again those who are interested can go on to complex things associated with the design like simulating the response of the mechanical design using computational fluid dynamics and testing using multiphysics environment - ofcourse using Free software tools and environments. Do not understimate the effectiveness of doing such thing. It is actually interesting to do science with computational help - and lot of knowledge can be learned even when it is not helpful at initial stages of development.
 
-### Sensor/Transducer Instrumentation Design group:
+### Measruement & Instrumentation Design group:
 
 
-### Electronics & Embedded Systems Design group:
+### Embedded Systems Design group:
 
 
 ### Electrical Power Systems Design group:
