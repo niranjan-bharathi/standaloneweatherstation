@@ -44,17 +44,17 @@ However, with increased commons participation - effectively the elitist playgrou
 Weather observation starts with 5 broad category based on the scale which in turn refers to geographical access. Observation begins with instruments that are grouped to form a **Weather Station**. The following is a generic categorization:
 
 1. Weather Stations (GROUND/SURFACE OBSERVATION)
-	*. Personal Weather Stations
-	*. Amateur/Corporate Weather Stations
-	*. Government Weather Stations
+ Personal Weather Stations
+ Amateur/Corporate Weather Stations
+ Government Weather Stations
 2. Airborne Stations (AVIATION OBSERVATION)
 3. Weather Balloons (UPPER AIR OBSERVATION)
-	*. Uses Helium Balloons
-	*. Uses Radiosondes
+ Uses Helium Balloons
+ Uses Radiosondes
 4. Weather Satellite (GLOBAL OBSERVATION)
-	*. Uses sophisticated instruments
+ Uses sophisticated instruments
 5. Weather Radar
-	*. Uses Doppler Radar
+ Uses Doppler Radar
 
 Observed datas from all of these several stations distributed and networked around the globe are collected, processed and fused together using computational systems to help forecast the weather with proper update intervals.
 
