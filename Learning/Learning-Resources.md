@@ -16,6 +16,7 @@ Publicly funded institutes - government run have a significant impact in Meteoro
 * [NOAA Upper Air Operations](http://www.ua.nws.noaa.gov/)
 * [Global Climate Observing System](http://www.wmo.int/pages/summary/progs_struct_en.html)
 * [Weather Research and Forecasting Model](http://www.wrf-model.org/index.php)
+* [How many WMS are needed for Solar PV](http://www.aeronsystems.com/find-correct-number-weather-monitoring-stations-pv-solar-plant/)
 
 
 
@@ -62,4 +63,14 @@ With the rise in Citizen Science, Commons Based Peer Production the participatio
 * [Hackaday - DIY 9GHz Weather doppler - learn when u are free](http://hackaday.com/2013/10/03/making-a-9ghz-doppler-radar/)
 * [OE2IGL's - take a look at humble web page](http://members.inode.at/576265/index.html)
 * [System Reebooting - Weather experiments](https://systemreboot.net/index/weather)
+* [We Make Things - Repo](https://github.com/Miceuz)
 
+
+## Learn from Proprietary Systems:
+
+* [Aeron WMS](http://www.aeronsystems.com/solutions/wireless-weather-station/)
+
+
+## Applications:
+
+* [Why Solar PV needs WMS](http://www.aeronsystems.com/solar-power-plants-need-weather-monitoring-station-wms/)
