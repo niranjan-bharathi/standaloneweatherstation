@@ -53,7 +53,7 @@ With the rise in Citizen Science, Commons Based Peer Production the participatio
 * [BOINC Distributed computing volunteered project for Radiation monitoring](http://radioactiveathome.org/en/)
 * [BOINC for Climate Prediction](http://climateapps2.oerc.ox.ac.uk/cpdnboinc/index.php)
 * [FERAL Wildlife, Biodiversity Research Community - India](http://feralindia.org)
-* [Community Sensor Aggregation, Uban Architecture - Bangalore](https://www.sensinglocal.in/)
+* [Community Sensor Aggregation, Urban Architecture - Bangalore](https://www.sensinglocal.in/)
 
 
 
